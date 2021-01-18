@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "928709507478",
+    "firebase_url": "https://notereact0711.firebaseio.com",
+    "project_id": "notereact0711",
+    "storage_bucket": "notereact0711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928709507478:android:175dcc871b9f6c1aab05b7",
+        "android_client_info": {
+          "package_name": "com.store_tra_sua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928709507478-72643rlinqdtvtm3kjohrqg5mr6fq09c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.store_tra_sua",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "928709507478-fnb2gbgq5j5a8mf1qgc8545aogr9qtri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjXe9obz2whBvdf1TspRMOmg2Fr1hnIjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928709507478-fnb2gbgq5j5a8mf1qgc8545aogr9qtri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
